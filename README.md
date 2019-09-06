@@ -1,3 +1,5 @@
-# companyLearn
+﻿# companyLearn
 公司学习笔记
 试验同步性
+
+再次测试：试验本地修改同步到仓库中
